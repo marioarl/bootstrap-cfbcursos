@@ -1,0 +1,14 @@
+.caixa {
+    border: 1px solid #000;
+    padding: 6px;
+    margin: 6px;
+    color: #fff;
+}
+
+.clear_fix{
+    clear: both;
+}
+
+.ub{
+    margin-top: 300px;
+}
